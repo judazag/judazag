@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Ingeniero de Sistemas | Data Scientist | AI Engineer
 Especialista en convertir grandes volúmenes de datos en soluciones estratégicas. Apasionado por la intersección entre la **Ingeniería de Software** y la **Ciencia de Datos**.
 
