@@ -6,7 +6,7 @@ Soy un apasionado por construir soluciones donde la **Inteligencia Artificial** 
 ---
 
 ### Especialidades y Enfoque
-* **Computer Vision & Deep Learning:** Implementación de modelos State-of-the-Art (DINOv2, YOLOv8) para diagnóstico médico y biometría.
+* **Computer Vision & Deep Learning:** Implementación de modelos State-of-the-Art (ConvNeXt, DINOv2, YOLOv8) para estimación de pose, diagnóstico médico y biometría.
 * **Arquitectura de Microservicios:** Diseño de sistemas escalables con patrones de alta disponibilidad, mensajería asíncrona y seguridad perimetral.
 * **Big Data Engineering:** Procesamiento masivo de datos y construcción de pipelines ETL distribuidos.
 
@@ -27,6 +27,8 @@ Soy un apasionado por construir soluciones donde la **Inteligencia Artificial** 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![torchvision](https://img.shields.io/badge/torchvision-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![RapidOCR](https://img.shields.io/badge/RapidOCR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Infraestructura y Microservicios
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -59,8 +61,11 @@ Ecosistema de microservicios contenedorizados con persistencia políglota y comu
 #### [Big Data Traffic Analytics](enlace-repo)
 Pipeline de procesamiento distribuido con **Apache Spark** para el análisis masivo de infracciones de tránsito en Bogotá.
 
+#### [CNN-Robot — Estimación de Pose con ConvNeXt-Tiny](enlace-repo)
+Pipeline completo de visión por computador para predecir la posición (x, y) y orientación (θ) de un robot móvil a partir de video. Fine-tuning de **ConvNeXt-Tiny** con cabeza de regresión adaptativa, inferencia frame a frame, extracción de ground truth vía **OCR** y análisis cuantitativo de error (Position RMSE: 0.753 m · Angle MAE: 5.72°).
+
 ---
 
 **Contacto:**
-- **LinkedIn:** [Tu Perfil]
+- **LinkedIn:** https://www.linkedin.com/in/juan-camilo-daza-gutierrez/
 - **Email:** juancadagu@gmail.com
