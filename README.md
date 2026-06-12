@@ -49,23 +49,28 @@ Soy un apasionado por construir soluciones donde la **Inteligencia Artificial** 
 *Proyecto Profesional bajo acuerdo de confidencialidad.*
 Diseño de arquitectura de microservicios para la trazabilidad nacional de procesos cafeteros. Implementación de **API Gateway**, **Proxy Inverso** y seguridad basada en **JWT**.
 
-#### [Medical AI - Lung Pathology Detection](enlace-repo)
+#### [Medical AI - Lung Pathology Detection](https://github.com/judazag/Deteccion-de-Patologias-Pulmonares)
 Investigación y desarrollo de un modelo de diagnóstico asistido usando modelos fundacionales (**DINOv2**) y **Transfer Learning**. Optimizado para alta sensibilidad en entornos clínicos.
 
-#### [Smart Mirror Multimodal AI](enlace-repo)
+#### [Smart Mirror Multimodal AI](https://github.com/judazag/Smart-Mirror-Multimodal)
 Software core para un espejo inteligente con interacción por voz y visión. Integra **YOLOv8** para detección y **DeepFace** para computación afectiva en tiempo real.
 
-#### [Zipa - Microservices PetShop](enlace-repo)
+#### [Zipa - Microservices PetShop](https://github.com/ZipaApp/ZipaRaiz)
 Ecosistema de microservicios contenedorizados con persistencia políglota y comunicación asíncrona mediante **RabbitMQ**. Foco en escalabilidad y atributos de calidad.
 
-#### [Big Data Traffic Analytics](enlace-repo)
+#### [Big Data Traffic Analytics](https://github.com/judazag/Analisis-de-Comparendos-Bogota)
 Pipeline de procesamiento distribuido con **Apache Spark** para el análisis masivo de infracciones de tránsito en Bogotá.
 
-#### [CNN-Robot — Estimación de Pose con ConvNeXt-Tiny](enlace-repo)
+#### [CNN-Robot — Estimación de Pose con ConvNeXt-Tiny](https://github.com/judazag/CNN-robot)
 Pipeline completo de visión por computador para predecir la posición (x, y) y orientación (θ) de un robot móvil a partir de video. Fine-tuning de **ConvNeXt-Tiny** con cabeza de regresión adaptativa, inferencia frame a frame, extracción de ground truth vía **OCR** y análisis cuantitativo de error (Position RMSE: 0.753 m · Angle MAE: 5.72°).
+
+### Investigación y Proyectos Académicos
+
+#### [Xception desde cero — Clasificación con Depthwise Separable Convolutions](https://github.com/judazag/Xception)
+Implementación de la arquitectura **Xception** construida desde cero en Keras/TensorFlow, sin usar la versión preentrenada. Incluye bloque residual con SeparableConv2D, los tres flujos (Entry, Middle, Exit) y evaluación completa con matriz de confusión sobre MNIST.
 
 ---
 
 **Contacto:**
-- **LinkedIn:** https://www.linkedin.com/in/juan-camilo-daza-gutierrez/
+- **LinkedIn:** [Juan Camilo Daza](https://www.linkedin.com/in/juan-camilo-daza-gutierrez/)
 - **Email:** juancadagu@gmail.com
