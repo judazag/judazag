@@ -56,7 +56,7 @@ Construyo soluciones donde la **Inteligencia Artificial** y la **Ingeniería de 
 
 ### Proyectos Destacados
 
-#### IRA-Municipal — Índice de Riesgo Alimentario Municipal
+#### [IRA-Municipal — Índice de Riesgo Alimentario Municipal](https://github.com/judazag/IRA-Municipal)  
 Pipeline ETL end-to-end (CRISP-DM) que integra 150+ datasets gubernamentales heterogéneos en un índice de riesgo alimentario para 1,122 municipios colombianos, con modelo de decisión **AHP + XGBoost** (F1 Macro CV=0.7546) y sistema de alertas tempranas. **87/100** en el Concurso *"Datos al Ecosistema 2026: IA para Colombia"* (Reto 04 – Agricultura y Desarrollo Rural).
 
 #### Enterprise Traceability System (Fed. Nacional de Cafeteros)
